@@ -1,51 +1,22 @@
 # ServiceNow Governance Toolkit
 
-A collection of practical templates, governance documents, checklists, and implementation best practices for ServiceNow.
-
----
-
-## Why this project?
-
-Many ServiceNow implementations become difficult to maintain because of unnecessary customizations, inconsistent governance, and missing documentation.
-
-This project aims to provide practical resources that help organizations adopt best practices while remaining as close to Out-of-the-Box (OOTB) functionality as possible.
-
----
+A practical open-source collection of governance templates, checklists, KPI catalogues and implementation guidance for ServiceNow.
 
 ## Contents
-
 - Incident Management
-- Major Incident Management
-- Knowledge Management
 - Service Catalog
+- Knowledge Management
 - Platform Governance
 - Upgrade Readiness
-- KPI Library
-- Assessment Templates
+- KPI Catalog
+- Dashboards
+- Technical Debt
+- Templates
 
----
+## Goals
+- Encourage Out-of-the-Box adoption
+- Reduce technical debt
+- Standardize governance
+- Share reusable templates
 
-## Who is this for?
-
-- ServiceNow Administrators
-- Product Owners
-- Process Owners
-- Architects
-- Consultants
-
----
-
-## Roadmap
-
-- Governance Checklists
-- Assessment Templates
-- Dashboard Library
-- Best Practice Guides
-- Community Contributions
-
----
-
-## License
-
-MIT# servicenow-governance-toolkit
-Open-source templates, governance checklists, and best practices for ServiceNow and ITSM implementations.
+Licensed under MIT.
